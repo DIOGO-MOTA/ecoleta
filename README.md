@@ -8,5 +8,5 @@
 * NODEJS
  
  ## Mobile
- <img src="/image/home.png" alt="alt text" title="Title" />
+ <img src="/image/home.png"/>
  
