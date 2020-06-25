@@ -7,4 +7,4 @@
 * EXPO
 * NODEJS
  
- ![](image/home.JPG)
+ ![](image/home.png)  ![](image/points.png) ![](image/detail.png)
