@@ -2,14 +2,9 @@
 
 ## Mobile
 <p align="center">
- <img src="/image/home.png" /> 
+ <img src="/image/Sem título-1.jpg" /> 
 </p>
-<p align="center">
- <img src="/image/points.png" width="331" height="688" />
-</p>
-<p align="center">
- <img src="/image/detail.png" width="331" height="688" />
-</p>
+
 
 ## Web
 
