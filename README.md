@@ -8,7 +8,5 @@
 * NODEJS
  
  ## Mobile
- ![](image/home.png)![](image/points.png)![](image/detail.png)
+ <img src="/image/home.png" alt="alt text" title="Title" />
  
- ## Web
- ![](image/ecoletaw.JPG)![](image/ecoletaw2.JPG)
