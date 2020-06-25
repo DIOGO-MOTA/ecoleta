@@ -7,4 +7,8 @@
 * EXPO
 * NODEJS
  
- ![](image/home.png)  ![](image/points.png) ![](image/detail.png)
+ ## Mobile
+ ![](image/home.png)![](image/points.png)![](image/detail.png)
+ 
+ ## Web
+ ![](image/ecoletaw.JPG)![](image/ecoletaw2.JPG)
